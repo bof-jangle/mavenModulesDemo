@@ -10,7 +10,7 @@
   <packaging>pom</packaging>
   <description>about web root</description>
   <modules>
-    <module>www</module>
-    <module>www2</module>
+    <module>demo-www</module>
+    <module>demo-www2</module>
   </modules>
 </project>

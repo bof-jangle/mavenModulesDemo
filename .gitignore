@@ -1,0 +1,7 @@
+/**/*.class
+target/*
+.settings/*
+settings/*
+target/
+demo-base/target/*
+demo-mgmt/target/*
