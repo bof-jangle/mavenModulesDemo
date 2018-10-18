@@ -1,0 +1,2 @@
+127.0.0.1 - - [18/Oct/2018:17:35:54 +0800] "GET /help/help9_client.nsf HTTP/1.1" 404 993 http-bio-80-exec-1 36
+127.0.0.1 - - [18/Oct/2018:17:36:06 +0800] "GET /index.jsp HTTP/1.1" 200 57 http-bio-80-exec-3 510
