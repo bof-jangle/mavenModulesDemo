@@ -1,4 +1,4 @@
-package xyz.jangle.demo.base;
+package xyz.jangle.base;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
